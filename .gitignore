@@ -13,6 +13,9 @@
 .idea
 *.iml
 
+# Mac
+.DS_Store
+
 # misc
 .DS_Store
 .env.local
